@@ -113,7 +113,7 @@ class Pedido {
   }
 }
 
-// Código de prueba del SENA (sin modificar)
+// Código de prueba
 void main() {
   var bandeja = Producto('Bandeja paisa', 32000);
   var limonada = Producto('Limonada', 6000);
