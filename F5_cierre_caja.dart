@@ -48,7 +48,7 @@ String resultadoArqueo(int esperado, int contado) {
   }
 }
 
-// Código de prueba del SENA (sin modificar)
+// Código de prueba 
 void main() {
   int base = 200000;
   List<int> totales = [45000, 120000, 38000, 76000, 54000, 91000];
