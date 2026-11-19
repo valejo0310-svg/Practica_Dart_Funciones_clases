@@ -42,7 +42,7 @@ class Producto {
   }
 }
 
-// Código de prueba del SENA (sin modificar)
+// Código de prueba
 void main() {
   List<Producto> carta = [
     Producto(nombre: 'Ajiaco', precio: 28000, categoria: 'Platos fuertes'),
