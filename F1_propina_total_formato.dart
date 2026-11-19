@@ -30,7 +30,7 @@ String formatearPesos(int valor) {
   return '$signo\$ $resultado';
 }
 
-// Código de prueba del instructor
+// Código de prueba
 void main() {
   int subtotal = 91000;
 
