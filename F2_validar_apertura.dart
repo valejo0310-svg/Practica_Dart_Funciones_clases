@@ -29,7 +29,7 @@ String? validarAperturaCaja(
 String estadoCaja(bool abierta) =>
     abierta ? 'ABIERTA' : 'CERRADA';
 
-// Código de prueba del instructor (sin modificar)
+// Código de prueba
 void main() {
   List<String> roles = ['cajero', 'mesero', 'admin', 'cajero', 'admin'];
   List<int> bases = [200000, 200000, -5000, 10000001, 100000];
