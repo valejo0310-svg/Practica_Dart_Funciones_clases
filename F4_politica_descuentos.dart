@@ -37,7 +37,7 @@ int aplicarDescuento(int subtotal, int porcentaje) {
   return subtotal - valorDescuento;
 }
 
-// Código de prueba del SENA (sin modificar)
+// Código de prueba
 void main() {
   List<int> subtotales = [162000, 162000, 80000, 80000];
   List<String?> cupones = ['CUMPLE', null, 'estudiante', 'GRATIS'];
