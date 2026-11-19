@@ -75,7 +75,7 @@ void imprimirComanda(
   print('Subtotal: $subtotal');
 }
 
-// CÓDIGO DE PRUEBA DEL INSTRUCTOR
+// CÓDIGO DE PRUEBA
 void main() {
   Map<String, int> pedidoMesa4 = {
     'Bandeja paisa': 2,
