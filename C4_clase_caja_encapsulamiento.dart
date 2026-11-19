@@ -122,7 +122,7 @@ class Caja {
   }
 }
 
-// Código de prueba del SENA (sin modificar)
+// Código de prueba
 void main() {
   var caja = Caja();
   caja.registrarVenta(45000, 'efectivo');
