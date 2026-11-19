@@ -62,7 +62,7 @@ class Mesa {
   }
 }
 
-// Código de prueba del SENA (sin modificar)
+// Código de prueba
 void main() {
   Mesa mesa4 = Mesa(4, 4);
   mesa4.ocupar(6);
