@@ -64,7 +64,7 @@ class Credito extends MetodoPago {
   }
 }
 
-// Código de prueba del SENA (sin modificar)
+// Código de prueba
 void main() {
   int total = 100100;
   List<MetodoPago> pagos = [
